@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 seahash = "3.0.6"
+downcast = "0.10.0"
